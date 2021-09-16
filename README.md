@@ -11,6 +11,6 @@ Connect3 is a game like Tic-tac-toe where three coins of same colors comes conse
 ## Apk Download link
 https://github.com/prashantkr006/Connect3/raw/master/app/release/app-release.apk
 
-##Installation process
+## Installation process
 just click on the link given above  and download the apk file then after install it and just because this apk is released so that it can be uploaded on playstore but it is not uploaded there that is why it will show warning of play protect just ignore it</br>
 click on install anyway and then click on don't send if next warning comes.
