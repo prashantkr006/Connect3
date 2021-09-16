@@ -9,4 +9,4 @@ Connect3 is a game like Tic-tac-toe where three coins of same colors comes conse
 5 After every game a play Again button will come on the screen which will reset the game for user.
 
 ## Apk Download link
-https://github.com/prashantkr006/Connect3/tree/master/app/release
+https://github.com/prashantkr006/Connect3/raw/master/app/release/app-release.apk
