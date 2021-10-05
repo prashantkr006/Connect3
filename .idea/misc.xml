@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Open source/Connect3/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/work/Android dev/Connect3/app/src/main/res/layout/activity_main.xml" value="0.259375" />
         <entry key="..\:/work/Android dev/Connect3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2755208333333333" />
       </map>
@@ -13,5 +14,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
